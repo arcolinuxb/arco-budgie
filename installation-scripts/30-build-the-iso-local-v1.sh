@@ -15,7 +15,6 @@
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-#cinnamon is too long - max 32 and then it is 33
 desktop="budgie"
 
 #build.sh
