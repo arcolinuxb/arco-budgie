@@ -442,6 +442,7 @@ glxinfo
 grub-customizer
 hardcode-fixer-git
 inxi
+#libappindicator-gtk3
 #menulibre
 mintstick-git
 #mugshot
@@ -622,7 +623,6 @@ qt5-xmlpatterns
 budgie-desktop
 gnome
 gnome-extra
-#libappindicator-gtk3
 nautilus-image-converter
 gnome-mplayer
 gnome-multi-writer
