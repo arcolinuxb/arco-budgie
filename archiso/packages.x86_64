@@ -174,10 +174,10 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 mtpfs
-#thunar
-#thunar-archive-plugin
+thunar
+thunar-archive-plugin
 #thunar-media-tags-plugin
-#thunar-volman
+thunar-volman
 udiskie
 udisks2
 xdg-user-dirs
