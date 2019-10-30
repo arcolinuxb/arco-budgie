@@ -666,6 +666,7 @@ qt5-xmlpatterns
 
 #Desktop specific
 budgie-desktop
+budgie-extras
 gnome
 gnome-extra
 nautilus-image-converter
