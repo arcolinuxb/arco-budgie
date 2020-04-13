@@ -792,7 +792,6 @@ budgie-desktop
 budgie-extras
 gnome
 #gnome-extra
-dconf-editor
 nautilus-image-converter
 gnome-mplayer
 gnome-multi-writer
