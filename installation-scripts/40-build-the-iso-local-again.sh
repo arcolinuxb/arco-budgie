@@ -29,7 +29,7 @@ echo
 	desktop="budgie"
 	dmDesktop="budgie-desktop"
 
-	arcolinuxVersion='v22.06.03'
+	arcolinuxVersion='v22.06.04'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
