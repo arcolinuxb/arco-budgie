@@ -210,7 +210,7 @@ nss-mdns
 mobile-broadband-provider-info
 modemmanager
 networkmanager
-network-manager-applet
+#network-manager-applet
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
@@ -280,7 +280,7 @@ numlockx
 scrot
 #simplescreenrecorder
 #termite
-variety
+#variety
 #vlc
 
 ###conky
@@ -562,8 +562,8 @@ arcolinux-systemd-services-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
 archlinux-tweak-tool-git
-arcolinux-variety-git
-arcolinux-variety-autostart-git
+#arcolinux-variety-git
+#arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
